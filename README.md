@@ -1,2 +1,2 @@
 # Employee_Management_System
-Comprehensive application for efficient HR management that relies on Microsoft SQL Server for secure data storage. Built on Streamlit with LAN access, includes modules like pandas, matplotlib, and reportlab.
+the comprehensive HR management application you described relies on Microsoft SQL Server for data storage and is built using Streamlit for the user interface. It's designed for LAN access, ensuring that it's only accessible within the organization. Additionally, it utilizes Python libraries like Pandas, Matplotlib, and Reportlab for data processing, visualization, and document generation, making it a powerful and efficient tool for managing HR-related tasks within the organization.
