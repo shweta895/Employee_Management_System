@@ -1,0 +1,9 @@
+streamlit-option-menu
+streamlit==1.17.0
+mysql-connector-python-rf
+pymysql
+pandas
+matplotlib
+reportlab
+canva
+hydralit_components
